@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+}
+
+.clock {
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+}
+
+#time {
+    color: black;
+    font-size: 50px;
+}
